@@ -21,7 +21,8 @@
 ## Projects:
 Проекты, задания, над которыми работают несколько сотрудников
 
-
+Физическая модель загружена в формате xlsx, либо ее можно посмотреть по ссылке:
+https://docs.google.com/spreadsheets/d/1Pq_8CwU8lfVGwGkHpSeWeulQSSodYxnBhuNN3vwEIXY/edit?hl=ru#gid=0
 
 
 
